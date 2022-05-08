@@ -16,6 +16,7 @@ December 1949, January 1950, : : :, December 1958, and January 1959 as data
 for the decade 1950–1959. Are there any noticeable differences between the
 decades?
 
-Link for the Data: https://github.com/hplgit/scipro-primer/blob/master/src/misc/Oxford_sun_hours.txt
+Link for the Data: https://github.com/hplgit/scipro-primer/blob/master/src/misc/Oxford_sun_hours.txt - (contains data of the num-
+ber of sun hours in Oxford, UK, for every month since January 1929.)
 
 In reference to A Primer on Scientific Programming with Python Chapter 2.6.2: Analyzing List Data, the code here can by run on Python3
