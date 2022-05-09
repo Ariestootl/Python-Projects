@@ -1,4 +1,4 @@
-#reference A Primer on Scientific Programming with Python
+#reference A Primer on Scientific Programming with Python by Hans Petter Langtangen
 
 
 #1.)Compute the average number of sun hours for each month during the total data period (1929–2009).
